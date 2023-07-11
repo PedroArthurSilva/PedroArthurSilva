@@ -1,8 +1,14 @@
 
 
-- 🌱 I estou aprendendo **engenharia de sofware**
+- 🌱 Cursando **Engenharia de Software** na **UNIFIL**
 
-- Aprendizagem sobre computação **computação**
+- 🧠 Conhecimentos:
+- **JAVA**
+- **HTML**
+- **CSS**
+- **GIT**
+- **FIGMA**
+- **JIRA SOFTWARE**
 
-- 📫 Como entrar em contato comigo **pedro.arthur@edu.unifil.br**
+- 📫 Como entrar em contato comigo Email **pedrosilva042004@gmail.com** ou Celular **+55 43 99837-7907**
 

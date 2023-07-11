@@ -1,6 +1,6 @@
 
 
-- 🌱 Cursando **Engenharia de Software** na **UNIFIL**
+- 🌱 Cursando **Engenharia de Software** na **UNIFIL - Instituto Filadélfia de Londrina**
 
 - 🧠 Conhecimentos:
 - **JAVA**
